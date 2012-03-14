@@ -11,4 +11,6 @@ return array (
     '<a href="http://tm.trackmobi.com/SH1W2" target="_blank"><img src="http://media.go2speed.org/brand/files/offermobi/458/3.jpg" width="300" height="50" border="0" /></a><img src="http://tm.trackmobi.com/aff_i?offer_id=458&aff_id=9533&aff_sub=htc143&file_id=5742" width="1" height="1">',
 
     '<a href="http://tm.trackmobi.com/SH1W4" target="_blank"><img src="http://media.go2speed.org/brand/files/offermobi/460/1.jpg" width="300" height="50" border="0" /></a><img src="http://tm.trackmobi.com/aff_i?offer_id=460&aff_id=9533&aff_sub=htc143&file_id=5870" width="1" height="1">',
+
+    '<a href="http://adscendmedia.com/click.php?aff=11783&camp=6717&crt=15346&sid="><img src="http://adscendmedia.com/creative.php?id=15346" border="0"></a>',
 );
