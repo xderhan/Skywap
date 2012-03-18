@@ -6,6 +6,6 @@ return array (
 	'<a href="http://tm.trackmobi.com/SH1Fc" target="_blank"><img src="http://media.go2speed.org/brand/files/offermobi/476/Motime_25RingtonesNow_WhBkPk_CH_320x48.gif" width="320" height="48" border="0" /></a><img src="http://tm.trackmobi.com/aff_i?offer_id=476&aff_id=9533&aff_sub=htc82&file_id=10410" width="1" height="1">',
 	'<a href="http://mob4fun.info" target="_blank"><img src="http://mob4fun.info/images/banner.png" width="216" height="36" border="0" /></a>',
 	'<a href="http://tm.trackmobi.com/SH1Fk" target="_blank"><img src="http://media.go2speed.org/brand/files/offermobi/458/3.jpg" width="216" height="36" border="0" /></a><img src="http://tm.trackmobi.com/aff_i?offer_id=458&aff_id=9533&aff_sub=htc82&file_id=5736" width="1" height="1">',
-	'<a href="http://tm.trackmobi.com/SH1WW" target="_blank"><img src="http://media.go2speed.org/brand/files/offermobi/502/320x48Concep1.gif" width="320" height="48" border="0" /></a><img src="http://tm.trackmobi.com/aff_i?offer_id=502&aff_id=9533&aff_sub=htc153&file_id=11136" width="1" height="1">',
+	'<a href="http://tm.trackmobi.com/SH1Y6" target="_blank"><img src="http://media.go2speed.org/brand/files/offermobi/476/Motime_25Ringtones_WhBkBl_DN_320x48.gif" width="320" height="48" border="0" /></a><img src="http://tm.trackmobi.com/aff_i?offer_id=476&aff_id=9533&aff_sub=htc183&file_id=10386" width="1" height="1">',
 );
 
